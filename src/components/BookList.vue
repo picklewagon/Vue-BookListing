@@ -10,11 +10,13 @@ export default {
   data: function () {
     return {
       title: 'All Books',
-    },
+    }
   },
 }
 </script>
 
 <style>
-
+  h1, h2 {
+    font-weight: normal;
+  }
 </style>
